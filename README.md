@@ -2,8 +2,8 @@
 Python Object to control a quadruped robot. The robot contains 4 legs with each leg containing two motors.  This object is the main parent object. 
 
 # Program structure
-o. quadrupedMK3 (Parent object)
-	o. Robot_state_display
+* quadrupedMK3 (Parent object)
+  * Robot_state_display
 
 # How to use
 
